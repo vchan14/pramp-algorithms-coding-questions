@@ -5,3 +5,4 @@ I have done more than 10 pramps and have collected below questions:
 1. K-Messed Array Sort 
 2. Flatten a Dictionary 
 3. Array Index & Element Equality
+4. Decode Variations
