@@ -2,7 +2,21 @@ Pramp is a live online interviewing platform that allows 2 people interview each
 
 I have done more than 10 pramps and have collected below questions: 
 
-1. K-Messed Array Sort 
-2. Flatten a Dictionary 
-3. Array Index & Element Equality
-4. Decode Variations
+Absolute Value Sort
+Array Index & Element Equality
+Array Quadruplet
+Array of Array Products
+Decode Variations
+Decrypt Message
+Flatten a Dictionary
+Getting a Different Number
+K-Messed Array Sort
+Matrix Spiral Copy
+Move Zeros To End 
+Number of Paths
+README.md
+Root of Number
+Shifted Array Search
+Shortest Cell Path
+Validate IP Address
+Word Count Engine
