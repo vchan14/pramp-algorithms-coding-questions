@@ -23,7 +23,6 @@ class test_flatten_a_dicionary(unittest.TestCase):
         expected = [0, 1, 2, 3]
         self.assertEqual(sort_k_messed_array(myInput, k), expected)
 
-
     def testcase_4(self):
         myInput =  [1,0,3,2,4,5,7,6,8]
         k = 1
