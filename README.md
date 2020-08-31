@@ -1,6 +1,6 @@
-Pramp is a live online interviewing platform that allows 2 people interview each other with algorithms and data structures questions. 
+Pramp is a live online interviewing platform that allows users interview each other with algorithms and data structures questions. 
 
-I have done more than 10 pramps and have collected below questions: 
+Below are the questions/solutions in this repo:
 
 Absolute Value Sort
 
