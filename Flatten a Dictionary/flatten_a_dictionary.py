@@ -1,14 +1,11 @@
-
 def newKey(str1, str2):
     if len(str1) == 0:
         return str2
-    
+
     if len(str2) == 0:
         return str1
-    
-    return(str1 + "." + str2)
-    
 
+    return str1 + "." + str2
 
 
 def helper(initial_key, obj, output):
@@ -18,13 +15,12 @@ def helper(initial_key, obj, output):
     else:
         output[initial_key] = obj
 
+
 def flatten_dicionary(dictionary):
     output = {}
     helper("", dictionary, output)
 
     return output
-
-
 
 
 if __name__ == "__main__":

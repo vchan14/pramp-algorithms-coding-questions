@@ -1,39 +1,24 @@
-Pramp is a live online interviewing platform that allows users interview each other with algorithms and data structures questions. 
+# Pramp Interview Questions Repository
 
-Below are the questions/solutions in this repo:
+Pramp is a live online interviewing platform that enables users to practice interviewing with each other, 
+focusing on algorithms and data structures.
 
-Absolute Value Sort
+## Questions/Solutions Included:
 
-Array Index & Element Equality
-
-Array Quadruplet
-
-Array of Array Products
-
-Decode Variations
-
-Decrypt Message
-
-Flatten a Dictionary
-
-Getting a Different Number
-
-K-Messed Array Sort
-
-Matrix Spiral Copy
-
-Move Zeros To End 
-
-Number of Paths
-
-Root of Number
-
-Shifted Array Search
-
-Shortest Cell Path
-
-Validate IP Address
-
-Word Count Engine
-
-
+- Absolute Value Sort
+- Array Index & Element Equality
+- Array Quadruplet
+- Array of Array Products
+- Decode Variations
+- Decrypt Message
+- Flatten a Dictionary
+- Getting a Different Number
+- K-Messed Array Sort
+- Matrix Spiral Copy
+- Move Zeros To End
+- Number of Paths
+- Root of Number
+- Shifted Array Search
+- Shortest Cell Path
+- Validate IP Address
+- Word Count Engine
